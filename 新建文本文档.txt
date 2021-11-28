@@ -1,0 +1,10 @@
+前端工程师：
+Html Css JavaScript基础一定要好
+熟悉React/Angular/Vue框架中的其中一种
+了解http协议的基本原理，了解常见的web性能优化手段、常见漏洞
+有持续的技术积累和输出（githhub等开源平台、技术博客等）
+
+
+
+
+
